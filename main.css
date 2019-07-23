@@ -1,0 +1,25 @@
+#txt_area{
+    color: green;
+    padding: 0px;
+    margin: 0px;
+}
+body{
+    padding: 0px;
+    margin: 0px;
+    border: 1px solid purple;
+    background-color: purple;
+}
+#about{
+    text-shadow: 0px 0px 5px white;
+    display: block;
+    text-align:center;
+    color: white;
+    background-color: purple;
+    padding: 0px;
+    margin: 0px;
+}
+
+.btn{
+    background-color: purple;
+    color: white;
+}
